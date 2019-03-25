@@ -18,7 +18,7 @@ class App extends Component {
           </a>
         </header>
         <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> and save to reload.yes
         </p>
       </div>
     );
